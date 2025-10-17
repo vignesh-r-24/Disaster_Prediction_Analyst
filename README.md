@@ -221,13 +221,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧑‍💻 Author
 
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [https://github.com/yourusername](https://github.com/yourusername)
-
----
 
 ## 📜 License
 
